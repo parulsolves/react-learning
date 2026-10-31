@@ -109,3 +109,17 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6fb;
+  margin: 0;
+  padding: 30px;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 6px;
+  cursor: pointer;
+  border-radius: 6px;
+}
